@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Marvel Giusepe Iola Permana 👋
 
-<!--
-**marvelgiusepe/marvelgiusepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student | TKJ | Technology & Data Enthusiast
 
-Here are some ideas to get you started:
+I'm a 12th-grade student at **SMK Nusaputera 1 Semarang**, majoring in **Computer and Network Engineering (TKJ)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+
+* 📊 Data Analysis
+* 💻 Technology
+* 🌐 Computer Networking
+* 🔧 Hardware & IoT
+
+### 🛠️ Skills & Tools
+
+* Microsoft Excel
+* Microsoft Word
+* Microsoft PowerPoint
+* MikroTik
+* Arduino
+* ESP32
+* Basic Database & Web Development
+
+### 📂 Projects
+
+Currently building and documenting my projects, including:
+
+* **Smart Door Lock** — RFID-based smart door lock using Arduino/ESP32
+* **MikroTik Networking Projects** — Network configuration and management projects
+
+More projects coming soon as I continue learning Data Analysis.
+
+### 🎓 Education
+
+**SMK Nusaputera 1 Semarang**
+Computer and Network Engineering (TKJ)
+2024 – 2027
+
+### 📫 Contact
+
+Email: **[marpel1250@gmail.com](mailto:marpel1250@gmail.com)**
