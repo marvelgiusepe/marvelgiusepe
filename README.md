@@ -1,8 +1,10 @@
 # Hi, I'm Marvel Giusepe Iola Permana 👋
 
-### Student | TKJ | Technology & Data Enthusiast
+### Grade 12 Student | TKJ | Aspiring Data Analyst
 
 I'm a 12th-grade student at **SMK Nusaputera 1 Semarang**, majoring in **Computer and Network Engineering (TKJ)**.
+
+I'm currently exploring **Data Analysis** and building my skills through personal projects.
 
 I'm interested in:
 
@@ -14,6 +16,9 @@ I'm interested in:
 ### 🛠️ Skills & Tools
 
 * Microsoft Excel
+* Data Cleaning
+* PivotTable & PivotChart
+* Data Visualization
 * Microsoft Word
 * Microsoft PowerPoint
 * MikroTik
@@ -23,17 +28,15 @@ I'm interested in:
 
 ### 📂 Projects
 
-Currently building and documenting my projects, including:
-
-* **Smart Door Lock** — RFID-based smart door lock using Arduino/ESP32
-* **MikroTik Networking Projects** — Network configuration and management projects
+* **Student Performance Analysis** — Data analysis project using Microsoft Excel, including data cleaning, PivotTables, data visualization, and dashboard creation.
+* **Smart Door Lock** — RFID-based smart door lock using ESP32, RFID, servo motor, LCD, and Firebase.
 
 More projects coming soon as I continue learning Data Analysis.
 
 ### 🎓 Education
 
-**SMK Nusaputera 1 Semarang**
-Computer and Network Engineering (TKJ)
+**SMK Nusaputera 1 Semarang**  
+Computer and Network Engineering (TKJ)  
 2024 – 2027
 
 ### 📫 Contact
