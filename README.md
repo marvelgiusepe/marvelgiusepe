@@ -12,6 +12,7 @@ I'm interested in:
 * 💻 Technology
 * 🌐 Computer Networking
 * 🔧 Hardware & IoT
+* 📐 Mathematics
 
 ### 🛠️ Skills & Tools
 
